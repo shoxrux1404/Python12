@@ -1,0 +1,10 @@
+a=23
+b=2
+if a!= b:
+   y= a+3
+   x= b+4
+else:
+    y=0
+    x=0
+print(x, y)
+
